@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"aronr"
+	],
+	"copyright": "Copyright © 2021, aronr",
+	"dependencies": {
+		"vibe-d": "~>0.9"
+	},
+	"versions": ["VibeDefaultMain"],
+	"description": "A simple vibe.d server application.",
+	"license": "proprietary",
+	"targetType": "executable",
+	"name": "appointments"
+}
